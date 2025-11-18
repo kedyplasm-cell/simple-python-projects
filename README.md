@@ -30,4 +30,4 @@ Here are some of the projects you'll find in this repository:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/simple-python-projects.git
+   git clone https://github.com/kedyplasm-cell/simple-python-projects.git
